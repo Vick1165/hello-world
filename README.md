@@ -1,5 +1,5 @@
 # hello-world
-try
+Try
 
-pull and take the tshirts
+Pull and take the tshirts
 
